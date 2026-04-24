@@ -1,47 +1,13 @@
-# Compiled class files
-
-*.class
-
-# Log files
-
-*.log
-
-# Maven target directory
-
-/target/
-
-# Maven wrapper
-
-.mvn/wrapper/maven-wrapper.jar
-
-# IntelliJ IDEA
+.DS_Store
+*.iml
 
 .idea/
-*.iml
-*.iws
-*.ipr
 
-# VS Code (if used)
+**/target/
+**/build/
 
-.vscode/
-
-# MacOS
-
-.DS_Store
-
-# Windows
-
-Thumbs.db
-
-# Temporary files
-
-*.swp
-*~
-
-# Build files
+.classpath
+.project
+.settings/
 
 out/
-
-# Lombok generated (optional, usually not needed)
-
-# lombok.config
